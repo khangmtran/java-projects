@@ -1,0 +1,28 @@
+rows: 1
+cols: 16
+
+PLANT (0,0) banana
+PLANT (0,1) yam
+PLANT (0,2) lily
+PLANT (0,3) coconut
+PLANT (0,4) sunflower
+PLANT (0,5) garlic
+PLANT (0,6) oak
+PLANT (0,7) rose
+PLANT (0,8) pine
+PLANT (0,9) lettuce
+PLANT (0,10) tomato
+PLANT (0,11) yam
+PLANT (0,12) tulip
+PLANT (0,13) rose
+PLANT (0,14) garlic
+PLANT (0,15) yam
+print
+grow 5
+print
+cut
+print
+pick
+print
+harvest
+print
